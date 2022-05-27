@@ -1,5 +1,4 @@
 # Versatile Banner
-# Andrew Testing...
 
 This banner will allow you to add a versatile banner to the top of your Discourse forum
 
